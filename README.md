@@ -24,19 +24,19 @@ Aplicación móvil desarrollada en **Android Studio** que permite a los usuarios
 
 | Añadir curso |
 |-------------|
-![Editar](captures/2.webp) |
+|[Editar](captures/2.webp) |
 
 | Menú de curso |
 |-------------|
-![Editar](captures/3.webp) |
+|[Editar](captures/3.webp) |
 
 | Lista de notas |
 |-------------|
-![Editar](captures/4.webp) |
+|[Editar](captures/4.webp) |
 
 | Menú de nota |
 |-------------|
-![Editar](captures/5.webp) |
+|[Editar](captures/5.webp) |
 
 
 ## 🚀 Instalación
