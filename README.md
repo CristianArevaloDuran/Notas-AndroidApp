@@ -21,7 +21,7 @@ Aplicación móvil desarrollada en **Android Studio** que permite a los usuarios
 
 | Lista de notas | Menú de nota |
 |----------------|-------------|
-| ![Lista](./captures/1.webp) | ![Editar](./captures/3.webp) |
+| ![Lista](captures/1.webp) | ![Editar](captures/3.webp) |
 
 
 ## 🚀 Instalación
