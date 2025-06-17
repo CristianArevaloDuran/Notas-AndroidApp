@@ -37,11 +37,3 @@ Aplicación móvil desarrollada en **Android Studio** que permite a los usuarios
 | Menú de nota |
 |-------------|
 | ![Editar Nota](captures/5.webp) |
-
-
-## 🚀 Instalación
-
-1. Clona el repositorio:
-
-   ```bash
-   git clone https://github.com/CristianArevaloDuran/Notas-AndroidApp.git
