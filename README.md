@@ -1,6 +1,6 @@
 # 📝 Notas - Android App
 
-Aplicación móvil desarrollada en **Android Studio** que permite a los usuarios gestionar notas personales de manera sencilla e intuitiva. Ideal para estudiantes, profesionales o cualquier persona que necesite llevar un registro rápido de ideas o pendientes.
+Aplicación móvil desarrollada en **Android Studio** que permite a los usuarios gestionar notas personales de manera sencilla e intuitiva.
 
 ## 📱 Características
 
