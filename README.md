@@ -6,22 +6,37 @@ Aplicación móvil desarrollada en **Android Studio** que permite a los usuarios
 
 - ✅ Crear, editar y eliminar notas
 - 🗃️ Organización visual clara y amigable
-- 🎨 Interfaz sencilla basada en Material Design
+- 🎨 Interfaz sencilla basada en Material Design usando JetpackCompose
 - 💾 Persistencia de datos local
 
 ## 🛠️ Tecnologías utilizadas
 
 - **Lenguaje:** Kotlin  
 - **Entorno:** Android Studio  
-- **Base de datos local:** Room  
-- **Arquitectura:** MVVM  
+- **Base de datos local:** Room
 - **UI:** JetpackCompose
 
 ## 📸 Capturas
 
-| Lista de notas | Menú de nota |
-|----------------|-------------|
-| ![Lista](captures/1.webp) | ![Editar](captures/3.webp) |
+| Lista de cursos |
+|----------------|
+| ![Lista](captures/1.webp) |
+
+| Añadir curso |
+|-------------|
+![Editar](captures/2.webp) |
+
+| Menú de curso |
+|-------------|
+![Editar](captures/3.webp) |
+
+| Lista de notas |
+|-------------|
+![Editar](captures/4.webp) |
+
+| Menú de nota |
+|-------------|
+![Editar](captures/5.webp) |
 
 
 ## 🚀 Instalación
